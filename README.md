@@ -1,4 +1,4 @@
-# Checkpoint 4: Integraciones avanzadas e interconexión de sistemas
+# MODULO 4
 
 **Alumno:** Fabrizio Balbi
 **Proyecto:** asistente de atención de Inmobiliaria Balbi (continuación del Módulo 3)
