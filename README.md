@@ -11,7 +11,7 @@
 
 ## Qué hace
 
-El Manager del Módulo 3 ahora atiende dos canales con un mismo cerebro:
+El Manager del Módulo 3 ahora atiende dos canales:
 
 1. **Entradas:** el chat y la casilla de soporte (Gmail) se normalizan al mismo formato y llegan a una entrada unificada.
 2. **Tramo común:** memoria en Airtable (para el email, la sesión es la dirección del remitente), Router de intención y los dos Workers del Módulo 3.
