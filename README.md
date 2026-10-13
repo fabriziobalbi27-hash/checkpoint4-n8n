@@ -7,7 +7,7 @@
 
 - `checkpoint4_fabrizio_balbi.json`: workflow principal (Manager). Se importa en n8n con *Import from File*.
 - `workers/`: los dos sub-workflows que llama el Manager (sin cambios respecto del Módulo 3).
-- `capturas/`: evidencia de la prueba con un email real.
+- `evidencia.pdf`: evidencia de la prueba con un email real.
 
 ## Qué hace
 
